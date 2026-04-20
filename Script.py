@@ -224,7 +224,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/Team_X_Crypto_Bitcoin_News_Chann">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/iP_Update">[ iP Update ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/Team_X_Crypto_Bitcoin_News_Chann">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/Team_X_Crypto_Bitcoin_News_Chann">[ Team X ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
